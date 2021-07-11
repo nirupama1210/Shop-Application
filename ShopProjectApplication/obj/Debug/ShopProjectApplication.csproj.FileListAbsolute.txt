@@ -1,0 +1,7 @@
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\bin\ShopProjectApplication.dll.config
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\bin\ShopProjectApplication.dll
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\bin\ShopProjectApplication.pdb
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\obj\Debug\ShopProjectApplication.csprojResolveAssemblyReference.cache
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\obj\Debug\ShopProjectApplication.dll
+c:\users\nirupama\documents\visual studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\obj\Debug\ShopProjectApplication.pdb
+C:\Users\Nirupama\Documents\Visual Studio 2015\Projects\ShopProjectApplication\ShopProjectApplication\bin\itextsharp.dll
